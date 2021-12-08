@@ -3,7 +3,7 @@
 
 ## Uvod u Markdown
 
-####Naslov
+*Naslov*
 
 " ## " Heading h2
 
@@ -12,7 +12,7 @@
 " #### " Heading h4
 
 
-####Uređivanje teksta
+*Uređivanje teksta*
 
 Bold tekst " ** ** "  ili " __ __ "
 
@@ -23,11 +23,11 @@ Precrtani tekst " ~~ ~~ "
 Bold i italic " *** *** "
 
 
-####Citiranje
+*Citiranje*
 Za citiranje koristimo " > "
 
 
-####Naredba za citiranje koda:
+*Naredba za citiranje koda:*
 git status
 git add
 git commit
@@ -38,14 +38,14 @@ Slike dodajemo s naredbom "![Ime stranice](link stranice) "
 
 ![cyborg-girl-symmetra-overwatch-video-game-tapeta-67023_L](https://user-images.githubusercontent.com/95430189/145297597-541fb1e4-b882-4b0a-8ce4-0e484be14965.jpg)
 
-####Liste
+*Liste*
 Liste označavamo sa " - ili * " ,ili brojevima
 
-####Tasks
+*Tasks*
 Da bi stvorili popis zadataka korstimo " [] "
 Da bi označili zadatak kao završen koristimo " [x] "
 
-####Emoji
+*Emoji*
 :EMOJICODE:
 
 
