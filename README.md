@@ -19,8 +19,7 @@ Bold tekst " ** ** "  ili " __ __ "
 
 Italic tekst " * * " or " _ _ "
 
-Precrtani tekst " ~~ ~~ "![145297597-541fb1e4-b882-4b0a-8ce4-0e484be14965](https://user-images.githubusercontent.com/95430189/145303779-cb51573e-4572-4983-97b9-26dd32e40d02.jpg)
-
+Precrtani tekst " ~~ ~~ "
 
 Bold i italic " *** *** "
 
