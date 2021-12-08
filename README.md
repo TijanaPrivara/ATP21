@@ -15,7 +15,7 @@ Možemo koristiti bold I italic zajedno kao "**Ovo je _vrlo_ važno.** ;
 
 Također možemo cijeli tekst izdvojiti kao italic i bold sa tri zvjedzice " *** *** " ( ***Ovo je važno*** )
 
-Ako želimo citirati nešto koristimo " > " (" >Ovo je moj citat. ")
+Ako želimo citirati nešto koristimo " > " (" > Ovo je moj citat. ")
 
 ####### Citiranje koda
 Neke osnovne git naredbe su:
