@@ -3,7 +3,7 @@
 
 ## Uvod u Markdown
 
-####### Stiliziranje teksta
+###### Stiliziranje teksta
 
 " ** ** " - za Bold tekst (ili "__ __ ")
 
