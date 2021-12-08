@@ -4,11 +4,17 @@
 ## Uvod u Markdown
 
 ####### Stiliziranje teksta
+
 " ** ** " - za Bold tekst (ili "__ __ ")
+
 " * * " - za Italic tekst (ili " _ _ ")
+
 " ~~ ~~ " - za precrtani tekst
+
 Možemo koristiti bold I italic zajedno kao "**Ovo je _vrlo_ važno.** ;
+
 Također možemo cijeli tekst izdvojiti kao italic i bold sa tri zvjedzice " *** *** " ( ***Ovo je važno*** )
+
 Ako želimo citirati nešto koristimo " > " (" >Ovo je moj citat. ")
 
 ####### Citiranje koda
@@ -22,6 +28,7 @@ git commit
 
 ###### Linkovi i slike
 Možemo linkati stranice koristeći ovakav format naredbe [GitHub Pages](https://pages.github.com/). "{ [Ime stranice](link stranice) }"
+
 Slike možemo stavljati na sličan način, samo dodamo " ! " na početku.
 
 ![Elden ring](https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png) 
