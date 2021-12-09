@@ -1,0 +1,12 @@
+Markdown skripta
+
+Za naslove koristimo #
+
+Za oblikovanje teksta koristimo ** ** (**podebljano**), * * (*kurziv*)
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
