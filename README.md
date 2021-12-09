@@ -22,7 +22,6 @@
 |Horizontal Rule |	`---` |
 |Link |	`[title](https://www.example.com)`|
 |Image |	`![alt text](image.jpg)`|
-|Table |	`| Syntax | Description || ----------- | ----------- |`|
 |Footnote |	`Here's a sentence with a footnote. [^1] [^1]: This is the footnote.`|
 |Heading ID |	`### My Great Heading {#custom-id}`|
 |Strikethrough |	`~~The world is flat.~~`|
