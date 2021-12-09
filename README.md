@@ -3,14 +3,8 @@
 
 ## Markdown Cheat sheet
 
-- Italic slova se onacavaju sa zvijezdicom na početku i kraju * * . Npr. *italic*
 
-- izmjena ...
-- dodati novi redak (za branch test)
-- Testni commit -> fkarinja
-
-
-|Element | Markdown Syntax |
+|**Element** | **Markdown Syntax** |
 |---|---|
 |Heading | `# H1 ## H2 ### H3` |
 |Bold |	`**bold text**`|
